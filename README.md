@@ -1,4 +1,4 @@
-# 大作业合集
+# 作业合集
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -17,7 +17,9 @@
 
   <h3 align="center">Report Trash Bin</h3>
   <p align="center">
-    🖋 此仓库记录了我在来自中山大学智能工程学院的部分课程大作业
+    🖋 此仓库记录了我在来自中山大学智能工程学院的部分课程作业
+  <p align="center">
+    觉得写的好的呢，可以点一个小星星，以示鼓励；觉得写的不好的呢，也点一个，我也不改了
     <br />
     <a href="https://github.com/SYSUzrc/Major-Assignments"><strong>探索本项目的文档 »</strong></a>
 
