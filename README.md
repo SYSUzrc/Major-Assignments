@@ -7,8 +7,36 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
- 🖋 此仓库中作业来自中山大学智能工程学院智能科学与技术专业的部分课程:
- 
+<!-- PROJECT LOGO -->
+<br />
+
+<p align="center">
+  <a href="https://github.com/SYSUzrc/Major-Assignments/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Report Trash Bin</h3>
+  <p align="center">
+    🖋 此仓库记录了我在来自中山大学智能工程学院的部分课程大作业
+    <br />
+    <a href="https://github.com/SYSUzrc/Major-Assignments"><strong>探索本项目的文档 »</strong></a>
+
+  </p>
+</p>
+
+###  涉及课程:
+|  |   |
+|-------------------------------------------|-------------------------------------------|
+| 人工智能编程语言          | 运筹学           |
+| 数字电路设计              | 高级程序语言       |
+| 数据库技术                | 分布式计算（理论）  |
+| 自动控制原理（理论）       | 分布式计算（实验）  |
+| 自动控制原理（实验）       | 电机与拖动         |
+| 视频技术                  |                   |
+| 计算机视觉                |                   |
+| 认知科学                  |                   |
+
+
 
 <!-- links -->
 [your-project-path]:SYSUzrc/Major-Assignments
