@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/SYSUzrc/Major-Assignments/">
-    <img src="images/sysu.png" alt="sysu" width="80" height="80">
+    <img src="images/sysu.jpg" alt="sysu" width="80" height="80">
   </a>
 </p>
 
