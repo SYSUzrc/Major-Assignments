@@ -38,8 +38,11 @@
 | 计算机视觉                | 智能机器人技术    |
 | 认知科学                  |                   |
 
-
-
+<p align="center">
+  <a href="https://github.com/SYSUzrc/Major-Assignments/">
+    <img src="images/sysu.png" alt="sysu" width="80" height="80">
+  </a>
+</p>
 <!-- links -->
 [your-project-path]:SYSUzrc/Major-Assignments
 [contributors-shield]: https://img.shields.io/github/contributors/SYSUzrc/Major-Assignments.svg?style=flat-square
