@@ -43,6 +43,7 @@
     <img src="images/sysu.png" alt="sysu" width="80" height="80">
   </a>
 </p>
+
 <!-- links -->
 [your-project-path]:SYSUzrc/Major-Assignments
 [contributors-shield]: https://img.shields.io/github/contributors/SYSUzrc/Major-Assignments.svg?style=flat-square
